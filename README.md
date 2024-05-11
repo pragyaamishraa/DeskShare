@@ -13,3 +13,6 @@ Personal AI Assistant (Saturn): An AI-powered assistant (Google Dialogflow) that
 DeskShare leverages various technologies, including Socket.IO for real-time collaboration, CORS and Axios for backend connectivity, and Express.js for server-side operations. The user interface is designed with HTML, Tailwind CSS, and generative AI tools, ensuring an aesthetically pleasing and intuitive experience.
 
 With DeskShare, remote teams can collaborate effectively, share ideas, and streamline their project planning process, fostering productivity and seamless teamwork.
+
+You can catch up with my project here:
+https://deskhare-project.web.app/
